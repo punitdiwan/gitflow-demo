@@ -1,7 +1,2 @@
 hello
-This is new Feature 
-
-This is Feature 2
-This is releas 1.0
-
-This is Feaurre  3
+File has been cleaned
