@@ -1,2 +1,3 @@
 hello
 File has been cleaned
+new file added
