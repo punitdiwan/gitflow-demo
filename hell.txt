@@ -1,2 +1,7 @@
 hello
 File has been cleaned
+new file added
+
+This is another Featureure
+
+Version 1.1 
